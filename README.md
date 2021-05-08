@@ -6,7 +6,7 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 ### Chapter 1
 - [x] [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 - [x] [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
-- [ ] [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
+- [x] [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
 
 ### Chapter 2
 - [ ] [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)

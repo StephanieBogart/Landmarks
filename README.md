@@ -13,7 +13,7 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 - [x] [Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 
 ### Chapter 3
-- [ ] [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
+- [x] [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
 - [ ] [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 
 ### Chapter 4

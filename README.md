@@ -9,7 +9,7 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 - [x] [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
 
 ### Chapter 2
-- [ ] [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
+- [x] [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
 - [ ] [Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 
 ### Chapter 3

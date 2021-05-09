@@ -10,7 +10,7 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 
 ### Chapter 2
 - [x] [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
-- [ ] [Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+- [x] [Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 
 ### Chapter 3
 - [ ] [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)

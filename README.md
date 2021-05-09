@@ -14,7 +14,7 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 
 ### Chapter 3
 - [x] [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
-- [ ] [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
+- [x] [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 
 ### Chapter 4
 - [ ] [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)

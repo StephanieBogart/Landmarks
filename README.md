@@ -17,6 +17,6 @@ This repo follows the iOS tutorial found here: https://developer.apple.com/tutor
 - [x] [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 
 ### Chapter 4
-- [ ] [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+- [x] [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
 - [ ] [Creating a watchOS App](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
 - [ ] [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
